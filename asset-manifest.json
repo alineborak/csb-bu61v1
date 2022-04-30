@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://alineborak.github.io/csb-bu61v1/static/css/main.6a939e61.chunk.css",
+    "main.js": "https://alineborak.github.io/csb-bu61v1/static/js/main.700d509e.chunk.js",
+    "main.js.map": "https://alineborak.github.io/csb-bu61v1/static/js/main.700d509e.chunk.js.map",
+    "runtime-main.js": "https://alineborak.github.io/csb-bu61v1/static/js/runtime-main.ed80b0ea.js",
+    "runtime-main.js.map": "https://alineborak.github.io/csb-bu61v1/static/js/runtime-main.ed80b0ea.js.map",
+    "static/js/2.cb913fb2.chunk.js": "https://alineborak.github.io/csb-bu61v1/static/js/2.cb913fb2.chunk.js",
+    "static/js/2.cb913fb2.chunk.js.map": "https://alineborak.github.io/csb-bu61v1/static/js/2.cb913fb2.chunk.js.map",
+    "index.html": "https://alineborak.github.io/csb-bu61v1/index.html",
+    "precache-manifest.d1a7e4dccba5a4e7f3986dc2b367bd45.js": "https://alineborak.github.io/csb-bu61v1/precache-manifest.d1a7e4dccba5a4e7f3986dc2b367bd45.js",
+    "service-worker.js": "https://alineborak.github.io/csb-bu61v1/service-worker.js",
+    "static/css/main.6a939e61.chunk.css.map": "https://alineborak.github.io/csb-bu61v1/static/css/main.6a939e61.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed80b0ea.js",
+    "static/js/2.cb913fb2.chunk.js",
+    "static/css/main.6a939e61.chunk.css",
+    "static/js/main.700d509e.chunk.js"
+  ]
+}
